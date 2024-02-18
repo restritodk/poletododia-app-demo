@@ -1,0 +1,3 @@
+enum ArchiveType{
+  foto, video
+}

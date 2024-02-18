@@ -1,0 +1,3 @@
+enum LikeType{
+  post, comment
+}

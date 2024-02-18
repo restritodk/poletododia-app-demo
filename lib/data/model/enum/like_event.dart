@@ -1,0 +1,3 @@
+enum LikeEvent{
+  liked, unliked
+}
